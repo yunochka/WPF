@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfApp11._2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp11._2"
+        mc:Ignorable="d"
+        Title="Стили" Height="250" Width="300">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <!-- Определение стиля для всех кнопок -->
+            <Setter Property="FontFamily" Value="Verdana" />
+            <Setter Property="Background" Value="Black" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="Margin" Value="10" />
+        </Style>
+    </Window.Resources>
+    <StackPanel x:Name="buttonsStack" Background="Black" >
+        <!-- Контейнер для кнопок с черным фоном -->
+        <Button x:Name="button1" Content="Кнопка 1"  />
+        <!-- Кнопка, наследующая стиль по умолчанию -->
+        <Button x:Name="button2" Content="Кнопка 2" Style="{x:Null}" />
+        <!-- Кнопка с отключенным стилем -->
+    </StackPanel>
+</Window>
