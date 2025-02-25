@@ -1,0 +1,31 @@
+﻿<Window x:Class="WpfApp11._7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp11._7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="300">
+
+    <Window.Resources>
+        <Style TargetType="Button">
+            <!-- Определение стиля для всех кнопок -->
+            <Style.Triggers>
+                <!-- Триггер на изменение данных -->
+                <!-- DataTrigger, который отслеживает состояние CheckBox -->
+                <DataTrigger Binding="{Binding ElementName=checkBox1, Path=IsChecked}"
+                        Value="True">
+                    <!-- При активации триггера кнопка отключается -->
+                    <Setter Property="IsEnabled" Value="False"/>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <StackPanel >
+        <!-- Контейнер для элементов управления -->
+        <CheckBox x:Name="checkBox1" Content="Disable" />
+        <!-- CheckBox для управления состоянием кнопки -->
+        <Button x:Name="button1" Content="Кнопка 1" />
+        <!-- Кнопка, состояние которой управляется через стиль -->
+    </StackPanel>
+</Window>
