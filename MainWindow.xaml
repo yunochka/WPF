@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfApp15._4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp15._4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="300">
+    <FlowDocument>
+        <Section FontSize="16">
+            <Paragraph>Флагманы 2016</Paragraph>
+            <Paragraph>Xiaomi Mi5</Paragraph>
+            <Paragraph>Samsung Galaxy S7</Paragraph>
+            <Paragraph>HP Elite X3</Paragraph>
+        </Section>
+    </FlowDocument>
+</Window>
