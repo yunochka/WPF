@@ -1,0 +1,29 @@
+﻿<Window x:Class="WpfApp15._2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp15._2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="300">
+    <FlowDocumentScrollViewer >
+        <FlowDocument>
+            <Paragraph>Флагманы 2015</Paragraph>
+            <List MarkerStyle="Box">
+                <ListItem>
+                    <Paragraph>Lumia 950 XL</Paragraph>
+                </ListItem>
+                <ListItem>
+                    <Paragraph>iPhone 6S Plus</Paragraph>
+                </ListItem>
+                <ListItem>
+                    <Paragraph>Galaxy S6 Edge</Paragraph>
+                </ListItem>
+                <ListItem>
+                    <Paragraph>Nexus 6P</Paragraph>
+                </ListItem>
+            </List>
+        </FlowDocument>
+    </FlowDocumentScrollViewer>
+
+</Window>
