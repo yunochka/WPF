@@ -1,0 +1,15 @@
+C:\Users\NG\Desktop\wpf\WpfApp18\WpfApp18.5\bin\Debug\WpfApp18.5.exe.config
+C:\Users\NG\Desktop\wpf\WpfApp18\WpfApp18.5\bin\Debug\WpfApp18.5.exe
+C:\Users\NG\Desktop\wpf\WpfApp18\WpfApp18.5\bin\Debug\WpfApp18.5.pdb
+C:\Users\NG\Desktop\wpf\WpfApp18\WpfApp18.5\obj\Debug\WpfApp18.5.csproj.AssemblyReference.cache
+C:\Users\NG\Desktop\wpf\WpfApp18\WpfApp18.5\obj\Debug\MainWindow.g.cs
+C:\Users\NG\Desktop\wpf\WpfApp18\WpfApp18.5\obj\Debug\App.g.cs
+C:\Users\NG\Desktop\wpf\WpfApp18\WpfApp18.5\obj\Debug\WpfApp18.5_MarkupCompile.cache
+C:\Users\NG\Desktop\wpf\WpfApp18\WpfApp18.5\obj\Debug\WpfApp18.5_MarkupCompile.lref
+C:\Users\NG\Desktop\wpf\WpfApp18\WpfApp18.5\obj\Debug\MainWindow.baml
+C:\Users\NG\Desktop\wpf\WpfApp18\WpfApp18.5\obj\Debug\WpfApp18.5.g.resources
+C:\Users\NG\Desktop\wpf\WpfApp18\WpfApp18.5\obj\Debug\WpfApp18._5.Properties.Resources.resources
+C:\Users\NG\Desktop\wpf\WpfApp18\WpfApp18.5\obj\Debug\WpfApp18.5.csproj.GenerateResource.cache
+C:\Users\NG\Desktop\wpf\WpfApp18\WpfApp18.5\obj\Debug\WpfApp18.5.csproj.CoreCompileInputs.cache
+C:\Users\NG\Desktop\wpf\WpfApp18\WpfApp18.5\obj\Debug\WpfApp18.5.exe
+C:\Users\NG\Desktop\wpf\WpfApp18\WpfApp18.5\obj\Debug\WpfApp18.5.pdb
