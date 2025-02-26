@@ -1,0 +1,17 @@
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.3\bin\Debug\WpfApp19.3.exe.config
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.3\bin\Debug\WpfApp19.3.exe
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.3\bin\Debug\WpfApp19.3.pdb
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.3\obj\Debug\WpfApp19.3.csproj.AssemblyReference.cache
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.3\obj\Debug\MainWindow.g.cs
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.3\obj\Debug\PasswordWindow.g.cs
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.3\obj\Debug\App.g.cs
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.3\obj\Debug\WpfApp19.3_MarkupCompile.cache
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.3\obj\Debug\WpfApp19.3_MarkupCompile.lref
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.3\obj\Debug\MainWindow.baml
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.3\obj\Debug\PasswordWindow.baml
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.3\obj\Debug\WpfApp19.3.g.resources
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.3\obj\Debug\WpfApp19._3.Properties.Resources.resources
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.3\obj\Debug\WpfApp19.3.csproj.GenerateResource.cache
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.3\obj\Debug\WpfApp19.3.csproj.CoreCompileInputs.cache
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.3\obj\Debug\WpfApp19.3.exe
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.3\obj\Debug\WpfApp19.3.pdb

@@ -1,0 +1,17 @@
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.2\obj\Debug\WpfApp19.2.csproj.AssemblyReference.cache
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.2\obj\Debug\MainWindow.g.cs
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.2\obj\Debug\TaskWindow.g.cs
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.2\obj\Debug\App.g.cs
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.2\obj\Debug\WpfApp19.2_MarkupCompile.cache
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.2\obj\Debug\WpfApp19.2_MarkupCompile.lref
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.2\bin\Debug\WpfApp19.2.exe.config
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.2\bin\Debug\WpfApp19.2.exe
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.2\bin\Debug\WpfApp19.2.pdb
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.2\obj\Debug\MainWindow.baml
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.2\obj\Debug\TaskWindow.baml
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.2\obj\Debug\WpfApp19.2.g.resources
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.2\obj\Debug\WpfApp19._2.Properties.Resources.resources
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.2\obj\Debug\WpfApp19.2.csproj.GenerateResource.cache
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.2\obj\Debug\WpfApp19.2.csproj.CoreCompileInputs.cache
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.2\obj\Debug\WpfApp19.2.exe
+C:\Users\NG\Desktop\wpf\WpfApp19\WpfApp19.2\obj\Debug\WpfApp19.2.pdb
